@@ -15,3 +15,9 @@ Em seguida, digite no terminal:
 `chainlit run app.py -w`
 
 Agora você pode acessar o chat-bot em um browser no http://localhost:8000
+
+# Video
+
+No link a baixo voce pode encontrar um video do chat-bot funcionando.
+
+https://drive.google.com/file/d/1Oe5FaQWsafzBqufUs2DiIcWrmycW6xDq/view?usp=drive_link
