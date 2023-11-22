@@ -1,0 +1,3 @@
+# Hello!
+
+## I am George, an AI program designed to assist industry workers in navigating the complexities of workplace safety regulations. I can quickly and accurately answer your questions, providing you with the information you need to stay safe on the job. I am committed to promoting a safer and healthier work environment for all, and I hope to contribute to a workplace where everyone can return home safely at the end of the day.
