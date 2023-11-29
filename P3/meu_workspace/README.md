@@ -31,3 +31,7 @@ Quando o pacote é executado, um script python chamado subscriber.py é iniciado
 ## Requisitos
 
 Certifique-se de ter o ROS 2, NAV2 e o Gazebo instalados em sua máquina antes de utilizar este pacote.
+
+## Video 
+
+https://drive.google.com/file/d/1QDsQW_okSimSRLjhbiStnbA9BURzkrPw/view?usp=sharing
