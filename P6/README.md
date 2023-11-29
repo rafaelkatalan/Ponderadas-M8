@@ -2,7 +2,7 @@
 
 O código implementa um Perceptron, um modelo simples de rede neural, para realizar a operação lógica AND. O Perceptron é treinado iterativamente com entradas (X) e saídas desejadas (y), ajustando seus pesos e bias com base nos erros de previsão. A função de ativação é uma função degrau simples, e o treinamento é realizado por um número definido de iterações. O exemplo de uso fornece dados para a porta AND, onde o Perceptron é treinado para produzir saídas corretas para diferentes combinações de entradas. Após o treinamento, o Perceptron é testado com todas as combinações possíveis de entradas da porta AND, e as saídas são impressas para verificar a eficácia do modelo treinado.
 
-Para treinalo com as saidas das outras portas, a linha com a saida da porta AND é comentada e a saida da porta desejada descomentada.
+Para treina-lo com as saidas das outras portas, comente a linha com a saida da porta AND e descomenta a saida da porta desejada.
 
 ## Não funciona para o XOR
 
