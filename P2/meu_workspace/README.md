@@ -33,3 +33,7 @@ Lembre-se de encerrar todas as execuções quando necessário.
 ## Requisitos
 
 Certifique-se de ter o ROS 2, NAV2 e o Webots instalados em sua máquina antes de utilizar este pacote.
+
+## Video
+
+(https://photos.google.com/share/AF1QipOXrWa_z1Da-9wNe3vubJe32LLNjTTcYrdm1RueIaDGrT1dmIj_IyP45V9M5NdTLg/photo/AF1QipM0xPDC3LJ5pZG0pB3g8NW0NwDUKCTkBILTgW8K?key=eG01T2VQd3NyVUphTE5JV2NSWGpMVnVMVjRZMTlB)
