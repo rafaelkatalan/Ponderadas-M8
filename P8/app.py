@@ -49,7 +49,8 @@ while True:
         translator = GoogleTranslator(source='pt', target='iw')
         traduzido = translator.translate(text=Input)
         print(traduzido)
+
         speak(traduzido, 'iw')
     except Exception as e:
         print(e)
-        speak(f"{e}, Não entendi. Repita por favor para eu poder traduzir corretamente", 'pt')
+        speak("Não entendi. Repita por favor para eu poder traduzir corretamente", 'pt')
